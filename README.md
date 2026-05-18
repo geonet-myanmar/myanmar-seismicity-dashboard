@@ -2,7 +2,7 @@
 
 An interactive, responsive, web-based dashboard for visualizing and analyzing recent earthquake activity in Myanmar. The project focuses on seismic events starting from the significant **Mandalay earthquake on 28 March 2025** up to the present date. It overlays these earthquake records from the USGS with the 2011 Myanmar Tectonic Lineaments to provide valuable seismological insights.
 
-**[View Live Dashboard](https://<your-username>.github.io/<your-repo-name>/)** *(Replace with your GitHub Pages link after deployment)*
+**[View Live Dashboard](https://geonet-myanmar.github.io/myanmar-seismicity-dashboard/?)** 
 
 ---
 
